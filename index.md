@@ -40,34 +40,36 @@ Research in RELEvaNT is held by a dynamic team that includes both senior and jun
 
 ### Edited volumes
 
-F. S. Melo, F. Fang. (2022) _Autonomous Agents and Multiagent Systems: Best and Visionary Papers, AAMAS 2022_, Lecture Notes in Computer Science 13441, Springer.
+F. S. Melo, F. Fang. (2022) _Autonomous Agents and Multiagent Systems: Best and Visionary Papers, AAMAS 2022_, Lecture Notes in Computer Science 13441, Springer ([link](https://link.springer.com/book/10.1007/978-3-031-20179-0)).
 
 ### International journals
 
-M. Vasco, H. Yin, Francisco S. Melo, A. Paiva. (2022b). Leveraging hierarchy in multimodal generative models for effective cross-modality inference. _Neural Networks_, 146:238-255.
+P. P. Santos, D. Carvalho, A. Sardinha, F. Melo. (2024) The impact of data distribution on Q-learning with function approximation. Machine Learning, to appear ([pdf](/pubs/santos24ml.pdf)).
+
+M. Vasco, H. Yin, Francisco S. Melo, A. Paiva. (2022b). Leveraging hierarchy in multimodal generative models for effective cross-modality inference. _Neural Networks_, 146:238-255 ([pdf](/pubs/vasco22nn.pdf)).
 
 ### International conferences
 
-D. Carvalho, Francisco S. Melo, P. Santos. (2023) Theoretical remarks on feudal hierarchies and reinforcement learning. In _Proc. 26th Eur. Conf. Artificial Intelligence_, pp. 351-356 (**Outstanding Paper Award**).
+D. Carvalho, Francisco S. Melo, P. Santos. (2023) Theoretical remarks on feudal hierarchies and reinforcement learning. In _Proc. 26th Eur. Conf. Artificial Intelligence_, pp. 351-356. **Outstanding Paper Award** ([pdf](/pubs/carvalho23ecai.pdf)).
 
-P. Poklukar, M. Vasco, H. Yin, Francisco S. Melo, A. Paiva, D. Kragic (2022). Geometric multimodal contrastive representation learning. In _Proc. 39th Int. Conf. Machine Learning_, pp. 17782-17800. 
+P. Poklukar, M. Vasco, H. Yin, Francisco S. Melo, A. Paiva, D. Kragic (2022). Geometric multimodal contrastive representation learning. In _Proc. 39th Int. Conf. Machine Learning_, pp. 17782-17800 ([pdf](/pubs/poklukar22icml.pdf)). 
 
-G. Querido, A. Sardinha, Francisco S. Melo. (2023) Learning to perceive in deep model-free reinforcement learning. In _Proc. 22nd Int. Conf. Autonomous Agents and Multiagent Systems_, pp. 2595-2597.
+G. Querido, A. Sardinha, Francisco S. Melo. (2023) Learning to perceive in deep model-free reinforcement learning. In _Proc. 22nd Int. Conf. Autonomous Agents and Multiagent Systems_, pp. 2595-2597 ([pdf](/pubs/querido23aamas.pdf)).
 
-J. Ribeiro, C. Martinho, A. Sardinha, Francisco S. Melo. (2023) Making friends in the dark: Ad hoc teamwork under partial observability. In _Proc. 26th Eur. Conf. Artificial Intelligence_, pp. 1954-1961.
+J. Ribeiro, C. Martinho, A. Sardinha, Francisco S. Melo. (2023) Making friends in the dark: Ad hoc teamwork under partial observability. In _Proc. 26th Eur. Conf. Artificial Intelligence_, pp. 1954-1961 ([pdf](/pubs/ribeiro23ecai.pdf)).
 
 P. P. Santos, D. Carvalho, M. Vasco, A. Sardinha, P. A. Santos, A. Paiva, F. Melo. (2024)
-Centralized training with hybrid execution in multi-agent reinforcement learning. In _Proc. 23rd Int. Conf. Autonomous Agents and Multiagent Systems, pp. 2453-2455.
+Centralized training with hybrid execution in multi-agent reinforcement learning. In _Proc. 23rd Int. Conf. Autonomous Agents and Multiagent Systems, pp. 2453-2455 ([pdf](/pubs/santos24aamas.pdf)).
 
-M. Vasco, H. Yin, Francisco S. Melo, A. Paiva. (2022) How to sense the world: Leveraging hierarchy in multimodal perception for robust reinforcement learning agents. In _Proc. 21st Int. Conf. Autonomous Agents and Multiagent Systems_, pp. 1301-1309. 
+M. Vasco, H. Yin, Francisco S. Melo, A. Paiva. (2022) How to sense the world: Leveraging hierarchy in multimodal perception for robust reinforcement learning agents. In _Proc. 21st Int. Conf. Autonomous Agents and Multiagent Systems_, pp. 1301-1309 ([pdf](/pubs/vasco22aamas.pdf)). 
 
-F. Vital, M. Vasco, A. Sardinha, Francisco S. Melo. (2022) Perceive, represent, generate: Translating multimodal information to robotic motion trajectories. In _Proc. 2022 IEEE/RSJ Int. Conf. Intelligent Robots and Systems_, pp. 5855-5860. 
+F. Vital, M. Vasco, A. Sardinha, Francisco S. Melo. (2022) Perceive, represent, generate: Translating multimodal information to robotic motion trajectories. In _Proc. 2022 IEEE/RSJ Int. Conf. Intelligent Robots and Systems_, pp. 5855-5860 ([pdf](/pubs/vital22iros.pdf)). 
 
-R. Zayanov, F. Melo, M. Lopes. (2024) Interactively teaching an inverse reinforcement learner with limited feedback. In _Proc. 16th Int. Conf. Agents and Artificial Intelligence_, 15-24.
+R. Zayanov, F. Melo, M. Lopes. (2024) Interactively teaching an inverse reinforcement learner with limited feedback. In _Proc. 16th Int. Conf. Agents and Artificial Intelligence_, 15-24 ([pdf](/pubs/zayanov24icaart.pdf)).
 
 ### National conferences
 
-B. Esteves, M. Vasco, Francisco S. Melo. (2023) Pre-training with augmentations for efficient transfer in model-based reinforcement learning. In _Proc. 22nd EPIA Conf. Artificial Intelligence_, pp. 133-145.
+B. Esteves, M. Vasco, Francisco S. Melo. (2023) Pre-training with augmentations for efficient transfer in model-based reinforcement learning. In _Proc. 22nd EPIA Conf. Artificial Intelligence_, pp. 133-145 ([pdf](/pubs/esteves23epia)).
 
 ### MSc theses
 
