@@ -59,7 +59,7 @@ J. Ribeiro, C. Martinho, A. Sardinha, Francisco S. Melo. (2023) Making friends i
 P. P. Santos, D. Carvalho, M. Vasco, A. Sardinha, P. A. Santos, A. Paiva, F. Melo. (2024)
 Centralized training with hybrid execution in multi-agent reinforcement learning. In _Proc. 23rd Int. Conf. Autonomous Agents and Multiagent Systems, pp. 2453-2455.
 
-M. Vasco, H. Yin, Francisco S. Melo, A. Paiva. (2022a) How to sense the world: Leveraging hierarchy in multimodal perception for robust reinforcement learning agents. In _Proc. 21st Int. Conf. Autonomous Agents and Multiagent Systems_, pp. 1301-1309. 
+M. Vasco, H. Yin, Francisco S. Melo, A. Paiva. (2022) How to sense the world: Leveraging hierarchy in multimodal perception for robust reinforcement learning agents. In _Proc. 21st Int. Conf. Autonomous Agents and Multiagent Systems_, pp. 1301-1309. 
 
 F. Vital, M. Vasco, A. Sardinha, Francisco S. Melo. (2022) Perceive, represent, generate: Translating multimodal information to robotic motion trajectories. In _Proc. 2022 IEEE/RSJ Int. Conf. Intelligent Robots and Systems_, pp. 5855-5860. 
 
@@ -67,7 +67,7 @@ R. Zayanov, F. Melo, M. Lopes. (2024) Interactively teaching an inverse reinforc
 
 ### National conferences
 
-B. Esteves, M. Vasco, Francisco S. Melo. (2023) Pre-training with augmentations for efficient trans- fer in model-based reinforcement learning. In _Proc. 22nd EPIA Conf. Artificial Intelligence_, pp. 133-145.
+B. Esteves, M. Vasco, Francisco S. Melo. (2023) Pre-training with augmentations for efficient transfer in model-based reinforcement learning. In _Proc. 22nd EPIA Conf. Artificial Intelligence_, pp. 133-145.
 
 ### MSc theses
 
@@ -85,4 +85,4 @@ R. Zayanov. (2022) _Interactively teaching an inverse reinforcement learner with
 
 ### Datasets and software
 
-M. Vasco, H. Yin, Francisco S. Melo, A. Paiva. (2022c) [Multimodal Handwritten Digits (MHD) dataset](https://github.com/miguelsvasco/multimodal-handwritten-digits)
+M. Vasco, H. Yin, Francisco S. Melo, A. Paiva. (2022) [Multimodal Handwritten Digits (MHD) dataset](https://github.com/miguelsvasco/multimodal-handwritten-digits)
