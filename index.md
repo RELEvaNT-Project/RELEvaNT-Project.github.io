@@ -2,6 +2,22 @@
 layout: default
 ---
 
+# Overview of the project
+
+Reinforcement learning (RL), both classical algorithms and their deep variants, critically rely on the fact that the underlying system is assumed stationary, i.e., how the environment responds to the agent's actions does not vary with time. Unfortunately, many real-world problems fail to exhibit such stationary property. Therefore, to bring out the full potential of RL in complex application domains, existing methods must be extended to cope with non-stationarity in a principled way.
+
+RELEvaNT investigates **new models and methods** for efficient deep RL in non-stationary environments and the potential applications on several "human-centered" domains. In particular, RELEvaNT investigates:
+
+* Model-based RL in which the learned model _captures a low-dimensional factorized representation of the world_. We investigate the extent to which such low-dimensional representations enable the agent to robustly cope with changes in the dynamics of the world.
+
+* _Meta-learning approaches to model-based RL_, in order to render the process of learning the low-dimensional models mentioned above more data-efficient. In particular, we build on existing frameworks for model-agnostic meta-learning to construct pre-trained "prototypical" representations that can then be adjusted, at interaction time, using a small number of samples, thus enabling the agent to adjust to changes in the environment.
+
+The outcomes of the project will be evaluated in several real-world non-stationary domains, exploiting the application of RL in robot control and human-robot interaction.
+
+# Research team
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
