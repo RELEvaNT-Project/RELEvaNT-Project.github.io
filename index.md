@@ -30,8 +30,8 @@ Research in RELEvaNT is held by a dynamic team that includes both senior and jun
 * João Fonseca (MSc student, grantee)
 
 ### Former members
-* Miguel Vasco (currently a post-doc at KTH)
-* Bernardo Esteves (currently a PhD student at IST)
+* [Miguel Vasco](https://miguelvasco.com/) (currently a post-doc at KTH)
+* [Bernardo Esteves](https://esteveste.github.io/) (currently a PhD student at IST)
 * Fábio Vital (currently a PhD student at IST)
 * Gonçalo Querido (former MSc student)
 * Rustam Zayanov (former MSc student)
