@@ -16,124 +16,73 @@ The outcomes of the project will be evaluated in several real-world non-stationa
 
 # Research team
 
+Research in RELEvaNT is held by a dynamic team that includes both senior and junior researchers. Several MSc students have also been advised in the context of the project.
 
+### Senior researchers
+* [Francisco S. Melo](https://gaips.inesc-id.pt/~fmelo/) (Principal Researcher, Associate Professor, IST)
+* [José Alberto Sardinha](https://www-di.inf.puc-rio.br/~sardinha/) (Associate Professor, PUC-Rio)
+* [Manuel Lopes](https://web.tecnico.ulisboa.pt/manuel.lopes/) (Associate Professor, IST)
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+### Junior researchers 
+* Diogo Carvalho (PhD student)
+* Pedro Pinto Santos (PhD student)
+* Jacopo Silvestrin (PhD student, grantee)
+* João Fonseca (MSc student, grantee)
 
-[Link to another page](./another-page.html).
+### Former members
+* Miguel Vasco (currently a post-doc at KTH)
+* Bernardo Esteves (currently a PhD student at IST)
+* Fábio Vital (currently a PhD student at IST)
+* Gonçalo Querido (former MSc student)
+* Rustam Zayanov (former MSc student)
 
-There should be whitespace between paragraphs.
+# Publications
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### Edited volumes
 
-# Header 1
+F. S. Melo, F. Fang. (2022) _Autonomous Agents and Multiagent Systems: Best and Visionary Papers, AAMAS 2022_, Lecture Notes in Computer Science 13441, Springer.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### International journals
 
-## Header 2
+M. Vasco, H. Yin, Francisco S. Melo, A. Paiva. (2022b). Leveraging hierarchy in multimodal generative models for effective cross-modality inference. _Neural Networks_, 146:238-255.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### International conferences
 
-### Header 3
+D. Carvalho, Francisco S. Melo, P. Santos. (2023) Theoretical remarks on feudal hierarchies and reinforcement learning. In _Proc. 26th Eur. Conf. Artificial Intelligence_, pp. 351-356 (**Outstanding Paper Award**).
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+P. Poklukar, M. Vasco, H. Yin, Francisco S. Melo, A. Paiva, D. Kragic (2022). Geometric multimodal contrastive representation learning. In _Proc. 39th Int. Conf. Machine Learning_, pp. 17782-17800. 
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+G. Querido, A. Sardinha, Francisco S. Melo. (2023) Learning to perceive in deep model-free reinforcement learning. In _Proc. 22nd Int. Conf. Autonomous Agents and Multiagent Systems_, pp. 2595-2597.
 
-#### Header 4
+J. Ribeiro, C. Martinho, A. Sardinha, Francisco S. Melo. (2023) Making friends in the dark: Ad hoc teamwork under partial observability. In _Proc. 26th Eur. Conf. Artificial Intelligence_, pp. 1954-1961.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+P. P. Santos, D. Carvalho, M. Vasco, A. Sardinha, P. A. Santos, A. Paiva, F. Melo. (2024)
+Centralized training with hybrid execution in multi-agent reinforcement learning. In _Proc. 23rd Int. Conf. Autonomous Agents and Multiagent Systems, pp. 2453-2455.
 
-##### Header 5
+M. Vasco, H. Yin, Francisco S. Melo, A. Paiva. (2022a) How to sense the world: Leveraging hierarchy in multimodal perception for robust reinforcement learning agents. In _Proc. 21st Int. Conf. Autonomous Agents and Multiagent Systems_, pp. 1301-1309. 
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+F. Vital, M. Vasco, A. Sardinha, Francisco S. Melo. (2022) Perceive, represent, generate: Translating multimodal information to robotic motion trajectories. In _Proc. 2022 IEEE/RSJ Int. Conf. Intelligent Robots and Systems_, pp. 5855-5860. 
 
-###### Header 6
+R. Zayanov, F. Melo, M. Lopes. (2024) Interactively teaching an inverse reinforcement learner with limited feedback. In _Proc. 16th Int. Conf. Agents and Artificial Intelligence_, 15-24.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+### National conferences
 
-### There's a horizontal rule below this.
+B. Esteves, M. Vasco, Francisco S. Melo. (2023) Pre-training with augmentations for efficient trans- fer in model-based reinforcement learning. In _Proc. 22nd EPIA Conf. Artificial Intelligence_, pp. 133-145.
 
-* * *
+### MSc theses
 
-### Here is an unordered list:
+S. Carvalho. (2022) _Using autonomous vehicles to improve traffic conditions_. MSc thesis, Instituto Superior Técnico, Univ. Lisboa.
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+B. Esteves. (2022) _Efficient transfer in model-based reinforcement learning_. MSc thesis, Instituto Superior Técnico, Univ. Lisboa.
 
-### And an ordered list:
+A. Fernandes. (2023) _Leveraging deep unsupervised models towards learning robust multimodal representations_. MSc thesis, Instituto Superior Técnico, Univ. Lisboa.
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+E. Paiva. (2023) _Using deep model-based RL in ad hoc teamwork with partial observability_. MSc thesis, Instituto Superior Técnico, Univ. Lisboa.
 
-### And a nested list:
+G. Querido. (2022) _Learning to perceive in deep model-free reinforcement learning_. MSc thesis, Instituto Superior Técnico, Univ. Lisboa.
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+R. Zayanov. (2022) _Interactively teaching an inverse reinforcement learner with limited feedback_. MSc thesis, Instituto Superior Técnico, Univ. Lisboa. 
 
-### Small image
+### Datasets and software
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+M. Vasco, H. Yin, Francisco S. Melo, A. Paiva. (2022c) [Multimodal Handwritten Digits (MHD) dataset](https://github.com/miguelsvasco/multimodal-handwritten-digits)
