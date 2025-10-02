@@ -96,19 +96,29 @@ A. Neves, A. Sardinha. Learning to cooperate with completely unknown teammates. 
 J. Silvestrin, J., Melo, F., and Lopes, M. “A comparative study of continual backpropagation”.
 In: Proc. 23rd EPIA Conf. Artificial Intelligence. 2024, pp. 324–334. ([pdf](/pubs/silvestrin24epia.pdf))
 
+### PhD theses
+
+J. Ribeiro. _Ad Hoc Teamwork in Realistic Environments_. PhD thesis, Instituto Superior Técnico, Univ. Lisboa, 2025.
+
+M. Vasco. _Multimodal Representation Learning for Agent Perception and Action_. PhD thesis, Instituto Superior Técnico, Univ. Lisboa, 2023.
+
 ### MSc theses
 
-S. Carvalho. (2022) _Using autonomous vehicles to improve traffic conditions_. MSc thesis, Instituto Superior Técnico, Univ. Lisboa.
+S. Carvalho. _Using autonomous vehicles to improve traffic conditions_. MSc thesis, Instituto Superior Técnico, Univ. Lisboa, 2022.
 
-B. Esteves. (2022) _Efficient transfer in model-based reinforcement learning_. MSc thesis, Instituto Superior Técnico, Univ. Lisboa.
+B. Esteves. _Efficient transfer in model-based reinforcement learning_. MSc thesis, Instituto Superior Técnico, Univ. Lisboa, 2022.
 
-A. Fernandes. (2023) _Leveraging deep unsupervised models towards learning robust multimodal representations_. MSc thesis, Instituto Superior Técnico, Univ. Lisboa.
+A. Fernandes. _Leveraging deep unsupervised models towards learning robust multimodal representations_. MSc thesis, Instituto Superior Técnico, Univ. Lisboa, 2023.
 
-E. Paiva. (2023) _Using deep model-based RL in ad hoc teamwork with partial observability_. MSc thesis, Instituto Superior Técnico, Univ. Lisboa.
+G. Jardim. _Using feudal hierarchies for non-stationary reinforcement learning_. MSc thesis, Instituto Superior Técnico, Univ. Lisboa, 2024.
 
-G. Querido. (2022) _Learning to perceive in deep model-free reinforcement learning_. MSc thesis, Instituto Superior Técnico, Univ. Lisboa.
+E. Paiva. _Using deep model-based RL in ad hoc teamwork with partial observability_. MSc thesis, Instituto Superior Técnico, Univ. Lisboa, 2023.
 
-R. Zayanov. (2022) _Interactively teaching an inverse reinforcement learner with limited feedback_. MSc thesis, Instituto Superior Técnico, Univ. Lisboa. 
+G. Querido. _Learning to perceive in deep model-free reinforcement learning_. MSc thesis, Instituto Superior Técnico, Univ. Lisboa, 2022.
+
+G. Salvador. _Discounting strategies for planning in hazardous environments_. MSc thesis, Instituto Superior Técnico, Univ. Lisboa, 2024.
+
+R. Zayanov. _Interactively teaching an inverse reinforcement learner with limited feedback_. MSc thesis, Instituto Superior Técnico, Univ. Lisboa, 2022. 
 
 ### Datasets and software
 
