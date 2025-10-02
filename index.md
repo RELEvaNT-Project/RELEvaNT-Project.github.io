@@ -43,9 +43,20 @@ Research in RELEvaNT is held by a dynamic team that includes both senior and jun
 
 ### Edited volumes
 
+U. Endriss, F. Melo, K. Bach, A. Bugarin-Diz, J. Alonso-Moral, S. Barro, and F. Heintz, eds. _ECAI 2024 - 27th European Conference on Artificial Intelligence_. IOS Press, 2024 ([link](https://ebooks.iospress.nl/volume/ecai-2024-27th-european-conference-on-artificial-intelligence-1924-october-2024-santiago-de-compostela-spain-including-pais-2024)).
+
 F. Melo, F. Fang. (2022) _Autonomous Agents and Multiagent Systems: Best and Visionary Papers, AAMAS 2022_, Lecture Notes in Computer Science 13441, Springer ([link](https://link.springer.com/book/10.1007/978-3-031-20179-0)).
 
 ### International journals
+
+D. Carvalho, P. Santos, F. Melo. Multi-Bellman operator for convergence of Q-learning with linear function approximation. _Trans. Machine Learning Research_, vol. 2025 (2025).
+
+D. Carvalho, P. Santos, F. Melo. Reinforcement learning in convergently non-stationary
+environments: Feudal hierarchies and learned representations. Artificial Intelligence
+vol. 347, p. 104382 (2025).
+
+H. Fonseca, C. de Melo, K. Terada, J. Gratch, A. Paiva, F. Santos. Evolution of indirect
+reciprocity under emotion expression. _Nature Scientific Reports_ 15 (2025), p. 9151.
 
 P. P. Santos, D. Carvalho, A. Sardinha, F. Melo. (2024) The impact of data distribution on Q-learning with function approximation. Machine Learning, to appear ([pdf](/pubs/santos24ml.pdf)).
 
