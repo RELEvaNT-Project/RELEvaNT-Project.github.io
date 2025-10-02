@@ -19,21 +19,24 @@ The outcomes of the project will be evaluated in several real-world non-stationa
 Research in RELEvaNT is held by a dynamic team that includes both senior and junior researchers. Several MSc students have also been advised in the context of the project.
 
 ### Senior researchers
-* [Francisco S. Melo](https://gaips.inesc-id.pt/~fmelo/) (Principal Researcher, Associate Professor, IST)
+* [Francisco S. Melo](https://gaips.inesc-id.pt/~fmelo/) (Principal Researcher, Full Professor, IST)
 * [José Alberto Sardinha](https://www-di.inf.puc-rio.br/~sardinha/) (Associate Professor, PUC-Rio)
 * [Manuel Lopes](https://web.tecnico.ulisboa.pt/manuel.lopes/) (Associate Professor, IST)
 
 ### Junior researchers 
-* Diogo Carvalho (PhD student)
-* Pedro Pinto Santos (PhD student)
-* Jacopo Silvestrin (PhD student, grantee)
-* João Fonseca (MSc student, grantee)
+* Diogo Carvalho (PhD student at IST)
+* Pedro Pinto Santos (PhD student at IST)
+* Jacopo Silvestrin (PhD student at IST)
+* [Bernardo Esteves](https://bernardoesteves.com/) (PhD student at IST)
 
 ### Former members
-* [Miguel Vasco](https://miguelvasco.com/) (currently a post-doc at KTH)
-* [Bernardo Esteves](https://esteveste.github.io/) (currently a PhD student at IST)
+* António Soares
 * Fábio Vital (currently a PhD student at IST)
+* Francisco Martins (former MSc student)
 * Gonçalo Querido (former MSc student)
+* José Rocha (currently a PhD student at IST)
+* Margarida Serralheiro (currently a PhD student at IST)
+* [Miguel Vasco](https://miguelvasco.com/) (currently a post-doc at KTH)
 * Rustam Zayanov (former MSc student)
 
 # Publications
