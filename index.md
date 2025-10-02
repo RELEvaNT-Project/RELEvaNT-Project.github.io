@@ -49,43 +49,52 @@ F. Melo, F. Fang. (2022) _Autonomous Agents and Multiagent Systems: Best and Vis
 
 ### International journals
 
-D. Carvalho, P. Santos, F. Melo. Multi-Bellman operator for convergence of Q-learning with linear function approximation. _Trans. Machine Learning Research_, vol. 2025 (2025).
+D. Carvalho, P. Santos, F. Melo. Multi-Bellman operator for convergence of Q-learning with linear function approximation. _Trans. Machine Learning Research_, vol. 2025, 2025. ([pdf](/pubs/carvalho25tmlr.pdf))
 
-D. Carvalho, P. Santos, F. Melo. Reinforcement learning in convergently non-stationary
-environments: Feudal hierarchies and learned representations. Artificial Intelligence
-vol. 347, p. 104382 (2025).
+D. Carvalho, P. Santos, F. Melo. Reinforcement learning in convergently non-stationary environments: Feudal hierarchies and learned representations. _Artificial Intelligence_,  vol. 347, p. 104382, 2025. ([pdf](/pubs/carvalho26aij.pdf))
 
-H. Fonseca, C. de Melo, K. Terada, J. Gratch, A. Paiva, F. Santos. Evolution of indirect
-reciprocity under emotion expression. _Nature Scientific Reports_ 15 (2025), p. 9151.
+H. Fonseca, C. de Melo, K. Terada, J. Gratch, A. Paiva, F. Santos. Evolution of indirect reciprocity under emotion expression. _Nature Scientific Reports_, vol. 15, p. 9151, 2025. ([pdf](/pubs/fonseca25nsr.pdf))
 
-P. P. Santos, D. Carvalho, A. Sardinha, F. Melo. (2024) The impact of data distribution on Q-learning with function approximation. Machine Learning, to appear ([pdf](/pubs/santos24ml.pdf)).
+P. Santos, F. Melo, A. Sardinha, D. Carvalho. Understanding the impact of data distribution on Q-learning with function approximation. _Machine Learning_, vol. 113, pp. 6141-6163, 2024. ([pdf](/pubs/santos24mlj.pdf))
 
-M. Vasco, H. Yin, F. Melo, A. Paiva. (2022b). Leveraging hierarchy in multimodal generative models for effective cross-modality inference. _Neural Networks_, 146:238-255 ([pdf](/pubs/vasco22nn.pdf)).
+P. Santos, D. Carvalho, M. Vasco, A. Sardinha, P. Santos, A. Paiva, F. Melo. Centralized training with hybrid execution in multi-agent reinforcement learning via predictive observation imputation. _Artificial Intelligence_, vol. 348, p. 104404, 2025. ([pdf](/pubs/santos25aij.pdf))
+
+M. Vasco, H. Yin, F. Melo, A. Paiva. Leveraging hierarchy in multimodal generative models for effective cross-modality inference. _Neural Networks_, vol. 146, pp. 238-255, 2022. ([pdf](/pubs/vasco22nn.pdf))
 
 ### International conferences
 
-D. Carvalho, F. Melo, P. Santos. (2023) Theoretical remarks on feudal hierarchies and reinforcement learning. In _Proc. 26th Eur. Conf. Artificial Intelligence_, pp. 351-356. **Outstanding Paper Award** ([pdf](/pubs/carvalho23ecai.pdf)).
+D. Carvalho, F. Melo, P. Santos. Theoretical remarks on feudal hierarchies and reinforcement learning. In _Proc. 26th Eur. Conf. Artificial Intelligence_, pp. 351-356, 2023. ([pdf](/pubs/carvalho23ecai.pdf))
 
-P. Poklukar, M. Vasco, H. Yin, F. Melo, A. Paiva, D. Kragic (2022). Geometric multimodal contrastive representation learning. In _Proc. 39th Int. Conf. Machine Learning_, pp. 17782-17800 ([pdf](/pubs/poklukar22icml.pdf)). 
+B. Esteves, M. Vasco, F. Melo. NeuralSolver: Learning algorithms for consistent and efficient extrapolation across general tasks. In _Advances in Neural Information Proc. Systems_ 37, 2024. ([pdf](/pubs/esteves24neurips.pdf))
 
-G. Querido, A. Sardinha, F. Melo. (2023) Learning to perceive in deep model-free reinforcement learning. In _Proc. 22nd Int. Conf. Autonomous Agents and Multiagent Systems_, pp. 2595-2597 ([pdf](/pubs/querido23aamas.pdf)).
+P. Poklukar, M. Vasco, H. Yin, F. Melo, A. Paiva, D. Kragic. Geometric multi-modal contrastive representation learning. In _Proc. 39th Int. Conf. Machine Learning_, pp. 17782-17800, 2022. ([pdf](/pubs/poklukar22icml.pdf))
 
-J. Ribeiro, C. Martinho, A. Sardinha, F. Melo. (2023) Making friends in the dark: Ad hoc teamwork under partial observability. In _Proc. 26th Eur. Conf. Artificial Intelligence_, pp. 1954-1961 ([pdf](/pubs/ribeiro23ecai.pdf)).
+G. Querido, A. Sardinha, F. Melo. Learning to perceive in deep model-free reinforcement learning. In _Proc. 22nd Int. Conf. Autonomous Agents and Multiagent Systems_, pp. 2595-2597, 2023. ([pdf](/pubs/querido23aamas.pdf))
 
-P. P. Santos, D. Carvalho, M. Vasco, A. Sardinha, P. A. Santos, A. Paiva, F. Melo. (2024)
-Centralized training with hybrid execution in multi-agent reinforcement learning. In _Proc. 23rd Int. Conf. Autonomous Agents and Multiagent Systems, pp. 2453-2455 ([pdf](/pubs/santos24aamas.pdf)).
+J. Ribeiro, C. Martinho, A. Sardinha, F. Melo. Making friends in the dark: Ad hoc teamwork under partial observability. In _Proc. 26th Eur. Conf. Artificial Intelligence_, pp. 1954-1961, 2023. ([pdf](/pubs/ribeiro23ecai.pdf))
 
-M. Vasco, H. Yin, F. Melo, A. Paiva. (2022) How to sense the world: Leveraging hierarchy in multimodal perception for robust reinforcement learning agents. In _Proc. 21st Int. Conf. Autonomous Agents and Multiagent Systems_, pp. 1301-1309 ([pdf](/pubs/vasco22aamas.pdf)). 
+P. Santos, D. Carvalho, M. Vasco, A. Sardinha, P. Santos, A. Paiva, F. Melo. Centralized training with hybrid execution in multi-agent reinforcement learning. In _Proc. 23rd Int. Conf. Autonomous Agents and Multiagent Systems_, pp. 2453-2455, 2024. ([pdf](/pubs/santos24aamas.pdf))
 
-F. Vital, M. Vasco, A. Sardinha, F. Melo. (2022) Perceive, represent, generate: Translating multimodal information to robotic motion trajectories. In _Proc. 2022 IEEE/RSJ Int. Conf. Intelligent Robots and Systems_, pp. 5855-5860 ([pdf](/pubs/vital22iros.pdf)). 
+M. Vasco, H. Yin, F. Melo, A. Paiva. "How to sense the world": Leveraging hierarchy in multimodal perception for robust reinforcement learning agents. In _Proc. 21st Int. Conf. Autonomous Agents and Multiagent Systems_, pp. 1301-1309, 2022. ([pdf](/pubs/vasco22aamas.pdf))
 
-R. Zayanov, F. Melo, M. Lopes. (2024) Interactively teaching an inverse reinforcement learner with limited feedback. In _Proc. 16th Int. Conf. Agents and Artificial Intelligence_, 15-24 ([pdf](/pubs/zayanov24icaart.pdf)).
+F. Vital, M. Vasco, A. Sardinha, F. Melo. Perceive, represent, generate: Translating multimodal information to robotic motion trajectories”. In _Proc. 2022 IEEE/RSJ Int. Conf. Intelligent Robots and Systems_, pp. 5855-5860, 2022. ([pdf](/pubs/vital22iros.pdf))
+
+G. Varela, A. Sardinha, F. Melo. Distributed value decomposition networks with networked agents. In _Proc. 24th Int. Conf. Autonomous Agents and Multiagent Systems_, pp. 2774-2776, 2025. ([pdf](/pubs/varela25aamas-b.pdf))
+
+G. Varela, A. Sardinha, F. Melo. Networked agents in the dark: Team value learning under partial observability. In _Proc. 24th Int. Conf. Autonomous Agents and Multiagent Systems_, pp. 2087-2095, 2025. ([pdf](/pubs/varela25aamas-a.pdf))
+
+F. Vital, A. Sardinha, F. Melo. Implicit repair with reinforcement learning in emergent communication. In _Proc. 24th Int. Conf. Autonomous Agents and Multiagent Systems_, pp. 2115-2124, 2025. ([pdf](/pubs/vital25aamas.pdf))
+
+R. Zayanov, F. Melo, M. Lopes. Interactively teaching an inverse reinforcement learner with limited feedback. In _Proc. 16th Int. Conf. Agents and Artificial Intelligence_, pp. 15-24, 2024. ([pdf](/pubs/zayanov24icaart.pdf))
 
 ### National conferences
 
-B. Esteves, M. Vasco, F. Melo. (2023) Pre-training with augmentations for efficient transfer in model-based reinforcement learning. In _Proc. 22nd EPIA Conf. Artificial Intelligence_, pp. 133-145 ([pdf](/pubs/esteves23epia.pdf)).
+B. Esteves, M. Vasco, F. Melo. Pre-training with augmentations for efficient transfer in model-based reinforcement learning”. In: _Proc. 22nd EPIA Conf. Artificial Intelligence_, pp. 133–145, 2023. ([pdf](/pubs/esteves23epia.pdf))
 
-A. Neves, A. Sardinha. (2022) Learning to cooperate with completely unknown teammates. In _Proc. 21st EPIA Conf. Artificial Intelligence_, pp. 739-750 ([pdf](/pubs/neves22epia.pdf)).
+A. Neves, A. Sardinha. Learning to cooperate with completely unknown teammates. In: _Proc. 21st EPIA Conf. Artificial Intelligence_, pp. 739-750, 2022. ([pdf](/pubs/neves22epia.pdf))
+
+J. Silvestrin, J., Melo, F., and Lopes, M. “A comparative study of continual backpropagation”.
+In: Proc. 23rd EPIA Conf. Artificial Intelligence. 2024, pp. 324–334. ([pdf](/pubs/silvestrin24epia.pdf))
 
 ### MSc theses
 
