@@ -98,27 +98,27 @@ In: Proc. 23rd EPIA Conf. Artificial Intelligence. 2024, pp. 324–334. ([pdf](/
 
 ### PhD theses
 
-J. Ribeiro. _Ad Hoc Teamwork in Realistic Environments_. PhD thesis, Instituto Superior Técnico, Univ. Lisboa, 2025.
+J. Ribeiro. _Ad Hoc Teamwork in Realistic Environments_. PhD thesis, Instituto Superior Técnico, Univ. Lisboa, 2025. ([pdf](/pubs/ribeiro25phd.pdf))
 
-M. Vasco. _Multimodal Representation Learning for Agent Perception and Action_. PhD thesis, Instituto Superior Técnico, Univ. Lisboa, 2023.
+M. Vasco. _Multimodal Representation Learning for Agent Perception and Action_. PhD thesis, Instituto Superior Técnico, Univ. Lisboa, 2023. ([pdf](/pubs/vasco23phd.pdf))
 
 ### MSc theses
 
-S. Carvalho. _Using autonomous vehicles to improve traffic conditions_. MSc thesis, Instituto Superior Técnico, Univ. Lisboa, 2022.
+S. Carvalho. _Using autonomous vehicles to improve traffic conditions_. MSc thesis, Instituto Superior Técnico, Univ. Lisboa, 2022. ([pdf](/pubs/carvalho22msc.pdf))
 
-B. Esteves. _Efficient transfer in model-based reinforcement learning_. MSc thesis, Instituto Superior Técnico, Univ. Lisboa, 2022.
+B. Esteves. _Efficient transfer in model-based reinforcement learning_. MSc thesis, Instituto Superior Técnico, Univ. Lisboa, 2022. ([pdf](/pubs/esteves22msc.pdf))
 
-A. Fernandes. _Leveraging deep unsupervised models towards learning robust multimodal representations_. MSc thesis, Instituto Superior Técnico, Univ. Lisboa, 2023.
+A. Fernandes. _Leveraging deep unsupervised models towards learning robust multimodal representations_. MSc thesis, Instituto Superior Técnico, Univ. Lisboa, 2023. ([pdf](/pubs/fernandes23msc.pdf))
 
-G. Jardim. _Using feudal hierarchies for non-stationary reinforcement learning_. MSc thesis, Instituto Superior Técnico, Univ. Lisboa, 2024.
+G. Jardim. _Using feudal hierarchies for non-stationary reinforcement learning_. MSc thesis, Instituto Superior Técnico, Univ. Lisboa, 2024. ([pdf](/pubs/jardim24msc.pdf))
 
-E. Paiva. _Using deep model-based RL in ad hoc teamwork with partial observability_. MSc thesis, Instituto Superior Técnico, Univ. Lisboa, 2023.
+E. Paiva. _Using deep model-based RL in ad hoc teamwork with partial observability_. MSc thesis, Instituto Superior Técnico, Univ. Lisboa, 2023. ([pdf](/pubs/paiva23msc.pdf))
 
-G. Querido. _Learning to perceive in deep model-free reinforcement learning_. MSc thesis, Instituto Superior Técnico, Univ. Lisboa, 2022.
+G. Querido. _Learning to perceive in deep model-free reinforcement learning_. MSc thesis, Instituto Superior Técnico, Univ. Lisboa, 2022. ([pdf](/pubs/querido22msc.pdf))
 
-G. Salvador. _Discounting strategies for planning in hazardous environments_. MSc thesis, Instituto Superior Técnico, Univ. Lisboa, 2024.
+G. Salvador. _Discounting strategies for planning in hazardous environments_. MSc thesis, Instituto Superior Técnico, Univ. Lisboa, 2024. ([pdf](/pubs/salvador24msc.pdf))
 
-R. Zayanov. _Interactively teaching an inverse reinforcement learner with limited feedback_. MSc thesis, Instituto Superior Técnico, Univ. Lisboa, 2022. 
+R. Zayanov. _Interactively teaching an inverse reinforcement learner with limited feedback_. MSc thesis, Instituto Superior Técnico, Univ. Lisboa, 2022. ([pdf](/pubs/zayanov22msc.pdf))
 
 ### Datasets and software
 
