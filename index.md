@@ -89,12 +89,11 @@ R. Zayanov, F. Melo, M. Lopes. Interactively teaching an inverse reinforcement l
 
 ### National conferences
 
-B. Esteves, M. Vasco, F. Melo. Pre-training with augmentations for efficient transfer in model-based reinforcement learning”. In: _Proc. 22nd EPIA Conf. Artificial Intelligence_, pp. 133–145, 2023. ([pdf](/pubs/esteves23epia.pdf))
+B. Esteves, M. Vasco, F. Melo. Pre-training with augmentations for efficient transfer in model-based reinforcement learning. In _Proc. 22nd EPIA Conf. Artificial Intelligence_, pp. 133–145, 2023. ([pdf](/pubs/esteves23epia.pdf))
 
-A. Neves, A. Sardinha. Learning to cooperate with completely unknown teammates. In: _Proc. 21st EPIA Conf. Artificial Intelligence_, pp. 739-750, 2022. ([pdf](/pubs/neves22epia.pdf))
+A. Neves, A. Sardinha. Learning to cooperate with completely unknown teammates. In _Proc. 21st EPIA Conf. Artificial Intelligence_, pp. 739-750, 2022. ([pdf](/pubs/neves22epia.pdf))
 
-J. Silvestrin, J., Melo, F., and Lopes, M. “A comparative study of continual backpropagation”.
-In: Proc. 23rd EPIA Conf. Artificial Intelligence. 2024, pp. 324–334. ([pdf](/pubs/silvestrin24epia.pdf))
+J. Silvestrin, J., Melo, F., and Lopes, M. A comparative study of continual backpropagation. In _Proc. 23rd EPIA Conf. Artificial Intelligence_, pp. 324–334, 2024. ([pdf](/pubs/silvestrin24epia.pdf))
 
 ### PhD theses
 
